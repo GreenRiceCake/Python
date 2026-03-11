@@ -1,1 +1,1 @@
-# KSU-Python
+# Python
